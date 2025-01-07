@@ -1,1 +1,1 @@
-# @nrd/fua.resource.data.person
+# @fua/resource.data.person
